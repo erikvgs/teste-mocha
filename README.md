@@ -11,5 +11,5 @@
 <br>•	Visual Studio Code<br> 
 
 <br><h2>Para rodar este projeto</h2></br>
-Apenas abrir o visual studio, carregar o arquivo do projeto e compila-lo.
+<br>Apenas abrir o visual studio, carregar o arquivo do projeto e compila-lo.<br>
 prompt comando: mocha ./past/math.test.js -g "subtract" ou "multiply" ou "divide" ou "add"
